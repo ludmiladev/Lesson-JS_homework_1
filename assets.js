@@ -78,7 +78,7 @@ console.log(typeof c1);
 // та вивести в консоль
 
     let name1 = prompt("Як вас звати", " ");
-    console.log("Привіт"+name1);
+    console.log("Привіт" + name1);
 
 
 
